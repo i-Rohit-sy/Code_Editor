@@ -193,10 +193,6 @@ react-code-editor/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/)
@@ -210,7 +206,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 ## Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Rohit - Initial work - [YourGitHub]([https://github.com/i-Rohit-sy])
 
 ## Roadmap
 
