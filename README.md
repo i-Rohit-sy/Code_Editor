@@ -71,7 +71,7 @@ A real-time collaborative code editor built with React, featuring VS Code-like f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-code-editor.git
+   git clone https://github.com/i-Rohit-sy/Code_Editor
    cd react-code-editor
    ```
 
@@ -206,7 +206,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 ## Authors
 
-- Rohit - Initial work - [YourGitHub]([https://github.com/i-Rohit-sy])
+- Rohit - Initial work - [YourGitHub](https://github.com/i-Rohit-sy)
 
 ## Roadmap
 
