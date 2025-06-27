@@ -206,7 +206,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 ## Authors
 
-- Rohit - Initial work - [YourGitHub](https://github.com/i-Rohit-sy)
+- Rohit - Initial work - [GitHub](https://github.com/i-Rohit-sy)
 
 ## Roadmap
 
