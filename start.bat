@@ -1,0 +1,3 @@
+@echo off
+echo Starting Code Editor with Real-time Collaboration...
+npm run dev 
