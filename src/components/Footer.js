@@ -33,15 +33,15 @@ const Footer = () => {
         </svg>{" "}
         by{" "}
         <a
-          href="Manisha sharma"
+          href="https://www.linkedin.com/in/rohit-9b4585328/"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
-          Manisha sharma.{" "}
+          Rohit{" "}
         </a>
         Code at{" "}
         <a
-          href="link will be added soon"
+          href="https://github.com/i-Rohit-sy"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
